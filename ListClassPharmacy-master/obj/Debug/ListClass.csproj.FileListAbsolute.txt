@@ -1,0 +1,119 @@
+C:\Users\Елена\Downloads\ListClassPharmacy-master\bin\Debug\ListClass.exe.config
+C:\Users\Елена\Downloads\ListClassPharmacy-master\bin\Debug\ListClass.exe
+C:\Users\Елена\Downloads\ListClassPharmacy-master\bin\Debug\ListClass.pdb
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\ListClass.csproj.AssemblyReference.cache
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\MainWindow.g.cs
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\App.g.cs
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.cache
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.lref
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\MainWindow.baml
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\ListClass.g.resources
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\ListClass.Properties.Resources.resources
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\ListClass.csproj.GenerateResource.cache
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\ListClass.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\ListClass.exe
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\ListClass.pdb
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\WindowAddPreparate.g.cs
+C:\Users\Елена\Downloads\ListClassPharmacy-master\obj\Debug\WindowAddPreparate.baml
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\bin\Debug\ListClass.exe.config
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\bin\Debug\ListClass.exe
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\bin\Debug\ListClass.pdb
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\ListClass.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\WindowAddPreparate.g.cs
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.cache
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.lref
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\WindowAddPreparate.baml
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\ListClass.g.resources
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\ListClass.Properties.Resources.resources
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\ListClass.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\ListClass.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\ListClass.exe
+C:\Users\Студент\Desktop\ListClassPharmacyV2-main\ListClassPharmacy-master\obj\Debug\ListClass.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\ListClass.csproj.AssemblyReference.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\MainWindow.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\WindowAddStudent.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\App.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.lref
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\ListClass.exe
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\ListClass.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\bin\Debug\ListClass.exe.config
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\bin\Debug\ListClass.exe
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\bin\Debug\ListClass.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\MainWindow.baml
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\WindowAddStudent.baml
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\ListClass.g.resources
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\ListClass.Properties.Resources.resources
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\ListClass.csproj.GenerateResource.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\ListClassPharmacy-master\obj\Debug\ListClass.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\ListClass.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\WindowAddStudent.g.cs
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.cache
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.lref
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\ListClass.exe
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\ListClass.pdb
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\bin\Debug\ListClass.exe.config
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\bin\Debug\ListClass.exe
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\bin\Debug\ListClass.pdb
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\WindowAddStudent.baml
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\ListClass.g.resources
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\ListClass.Properties.Resources.resources
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\ListClass.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Суханова13(2)\ListClassPharmacy-master\obj\Debug\ListClass.csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\bin\Debug\ListClass.exe.config
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\bin\Debug\ListClass.exe
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\bin\Debug\ListClass.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\ListClass.csproj.AssemblyReference.cache
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\MainWindow.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\WindowAddStudent.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\App.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.cache
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.lref
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\MainWindow.baml
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\WindowAddStudent.baml
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\ListClass.g.resources
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\ListClass.Properties.Resources.resources
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\ListClass.csproj.GenerateResource.cache
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\ListClass.csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\ListClass.exe
+C:\Users\ekate\OneDrive\Рабочий стол\ListClassPharmacy-master\obj\Debug\ListClass.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\bin\Debug\ListClass.exe.config
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\bin\Debug\ListClass.exe
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\bin\Debug\ListClass.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.csproj.AssemblyReference.cache
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\MainWindow.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\WindowAddStudent.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\App.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.cache
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.lref
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\MainWindow.baml
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\WindowAddStudent.baml
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.g.resources
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.Properties.Resources.resources
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.csproj.GenerateResource.cache
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.exe
+C:\Users\ekate\OneDrive\Рабочий стол\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\bin\Debug\ListClass.exe.config
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\bin\Debug\ListClass.exe
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\bin\Debug\ListClass.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.csproj.AssemblyReference.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\MainWindow.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\WindowAddStudent.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\App.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\ListClass_MarkupCompile.lref
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\MainWindow.baml
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\WindowAddStudent.baml
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.g.resources
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.Properties.Resources.resources
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.csproj.GenerateResource.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.exe
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\МДК 01\13(3)\ListClassPharmacy-master\obj\Debug\ListClass.pdb
